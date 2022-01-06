@@ -8,4 +8,4 @@ Prepare a model for glass classification using KNN Data Description: RI : refrac
 Type: Type of glass: (class attribute) 1 -- building_windows_float_processed 2 --building_windows_non_float_processed 3 --vehicle_windows_float_processed 4 --vehicle_windows_non_float_processed (none in this database) 5 --containers 6 --tableware 7 --headlamps
 
 Problem - 2
-Implement a KNN model to classify the animals in to categorie
+Implement a KNN model to classify the animals in to category
